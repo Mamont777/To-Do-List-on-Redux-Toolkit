@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/To-Do-List-on-Redux-Toolkit/static/css/main.78c9beed.css",
+    "main.js": "/To-Do-List-on-Redux-Toolkit/static/js/main.6c2e68e9.js",
+    "index.html": "/To-Do-List-on-Redux-Toolkit/index.html",
+    "main.78c9beed.css.map": "/To-Do-List-on-Redux-Toolkit/static/css/main.78c9beed.css.map",
+    "main.6c2e68e9.js.map": "/To-Do-List-on-Redux-Toolkit/static/js/main.6c2e68e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c9beed.css",
+    "static/js/main.6c2e68e9.js"
+  ]
+}
